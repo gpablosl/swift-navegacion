@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MenuController.swift
 //  Navegacion
 //
 //  Created by Alumno on 15/09/22.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MenuController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
